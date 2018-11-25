@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Armikrog
+Comment=Armikrog is a unique stop motion clay animated point and click adventure game from the creators of Earthworm Jim and the Neverhood
+Exec=gog-armikrog
+Icon=gog-armikrog
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=Application;Game;AudioVideo
